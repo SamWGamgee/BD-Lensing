@@ -6,5 +6,8 @@ Despite my efforts and additional help from my supervisor and peers, **reconstru
 
 The outcomes of this project included key findings about the **relationships between the mass and light distributions of elliptical galaxies and their local environments**. These findings **provided valuable insights into dark matter theories and the interplay between galaxy structure and environmental factors**. 
 
+Project link:
+https://www.astrobridge.org/projects/bdlensing
+
 Article link:
 https://www.aanda.org/articles/aa/full_html/2025/07/aa53239-24/aa53239-24.html
